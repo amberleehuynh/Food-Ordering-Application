@@ -5,11 +5,10 @@ import Meals from './Components/Meals/Meals'; // Importing Meals.js into Meals f
 function App() {
   return (
     <Fragment>
-      <Header>
+      <Header />
         <main>
           <Meals />
         </main>
-      </Header>
     </Fragment>
   );
 }

@@ -1,6 +1,6 @@
 import { Fragment } from 'react'; // To access React.Fragment
 import HeaderCartButton from './HeaderCartButton';
-import mealsImage from '../../Assets/meals.jpg';
+import mealsImage from '../../Assets/meal.png';
 import classes from './Header.module.css';
 
 const Header = props => {
